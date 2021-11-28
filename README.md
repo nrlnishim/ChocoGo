@@ -1,6 +1,6 @@
 # E-Commerce-website-using-html-css-Js
 
-Choco-Go E-commerce website with feature as add to cart, proceed for checkout and payment options. It simulates a shopping cart within a website.
+Choco-Go E-commerce website with feature such as add to cart, proceed for checkout and payment options. It simulates a shopping cart within a website.
 
 Follow the following steps to view the project:
 1. Download the folder web1 using clone or download option on the right of the repository.
@@ -12,5 +12,5 @@ Follow the following steps to view the project:
 Now you are all set to view the project.
 
 3. open "index.html" file with your browser(any).
-4. For further simulation you will we instructed in the web page such as add to cart will take to "your cart" and then you can choose the more options on cart page.
+4. For further simulation you will be instructed in the web page such as add to cart will take to "your cart" and then you can choose the more options on cart page.
 
